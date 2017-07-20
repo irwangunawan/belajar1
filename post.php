@@ -29,9 +29,9 @@ $query = "INSERT INTO datakaryawan SET
 $result = mysqli_query($connection, $query);
 
 if ($result == true) {
-    echo "Edit Success";
+    echo "Input Success";
 } else {
-    echo "Edit failed";
+    echo "Input failed";
 }
 
 //echo $query;
@@ -43,7 +43,8 @@ if ($result == true) {
 
 ?>
 </br></br>
-<a href="http://localhost:8888/belajarphp/registrationpage.php">Back to Register</a></br>or</br>
+<a href="http://localhost:8888/belajarphp/registrationpage.php">Back to Register</a>
+</br>or</br>
 <a href="http://localhost:8888/belajarphp/userdata.php">Go to Employee list</a>
 </body>
 </html>

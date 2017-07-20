@@ -16,24 +16,44 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="userdata.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="login.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/qareer2/mdot-vuejs/test/behat/features/adaptive/login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="userdata.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/userdata.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
+            <state relative-caret-position="-14">
+              <caret line="31" column="72" lean-forward="true" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1500536920000" expanded="true" signature="970:1074" ph="Select id,fi... Datakaryawan" />
-                <marker date="1500536920000" expanded="true" signature="971:1074" ph="select id,fi... datakaryawan" />
-                <marker date="1500536920000" expanded="true" signature="1252:1713" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="1252:1729" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="1252:1730" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="1252:1755" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="1252:2079" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="1252:2091" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="1873:2072" ph="..." />
-                <marker date="1500536920000" expanded="true" signature="2060:2072" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="973:1077" ph="Select id,fi... Datakaryawan" />
+                <marker date="1500553513000" expanded="true" signature="974:1077" ph="select id,fi... datakaryawan" />
+                <marker date="1500553513000" expanded="true" signature="1255:1716" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1255:1732" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1255:1733" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1255:1758" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1255:2007" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1255:2019" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1876:2000" ph="..." />
+                <marker date="1500553513000" expanded="true" signature="1988:2000" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DHTML.js" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="1709" column="0" lean-forward="false" selection-start-line="1709" selection-start-column="0" selection-end-line="1709" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,12 +81,12 @@
       <file leaf-file-name="postedit.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/postedit.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="481">
+              <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding>
-                <marker date="1500537119000" expanded="true" signature="377:740" ph="Update datak... " />
-                <marker date="1500537119000" expanded="true" signature="377:748" ph="Update datak... " />
-                <marker date="1500537119000" expanded="true" signature="383:715" ph="INSERT INTO datakaryawan... " />
+                <marker date="1500547449000" expanded="true" signature="377:740" ph="Update datak... " />
+                <marker date="1500547449000" expanded="true" signature="377:748" ph="Update datak... " />
+                <marker date="1500547449000" expanded="true" signature="383:715" ph="INSERT INTO datakaryawan... " />
               </folding>
             </state>
           </provider>
@@ -85,8 +105,8 @@
       <file leaf-file-name="delete.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/delete.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
+            <state relative-caret-position="150">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <marker date="1500536482000" expanded="true" signature="109:144" ph="DELETE FROM " />
                 <marker date="1500536482000" expanded="true" signature="109:152" ph="DELETE FROM " />
@@ -105,26 +125,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="421">
+              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding>
-                <marker date="1500537214000" expanded="true" signature="355:424" ph="INSERT INTO datakaryawan... " />
-                <marker date="1500537214000" expanded="true" signature="355:453" ph="INSERT INTO datakaryawan... " />
-                <marker date="1500537214000" expanded="true" signature="355:464" ph="INSERT INTO datakaryawan... " />
-                <marker date="1500537214000" expanded="true" signature="355:698" ph="INSERT INTO datakaryawan... " />
+                <marker date="1500547743000" expanded="true" signature="355:424" ph="INSERT INTO datakaryawan... " />
+                <marker date="1500547743000" expanded="true" signature="355:453" ph="INSERT INTO datakaryawan... " />
+                <marker date="1500547743000" expanded="true" signature="355:464" ph="INSERT INTO datakaryawan... " />
+                <marker date="1500547743000" expanded="true" signature="355:698" ph="INSERT INTO datakaryawan... " />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registrationpage.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/registrationpage.php">
+      <file leaf-file-name="refer.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/qareer2/mdot-vuejs/test/behat/features/adaptive/refer.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="270">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -152,9 +172,11 @@
         <option value="$PROJECT_DIR$/registrationpage.php" />
         <option value="$PROJECT_DIR$/edit.php" />
         <option value="$PROJECT_DIR$/delete.php" />
-        <option value="$PROJECT_DIR$/userdata.php" />
+        <option value="$USER_HOME$/qareer2/mdot-vuejs/test/behat/features/adaptive/login.feature" />
+        <option value="$USER_HOME$/qareer2/mdot-vuejs/test/behat/features/adaptive/refer.feature" />
         <option value="$PROJECT_DIR$/postedit.php" />
         <option value="$PROJECT_DIR$/post.php" />
+        <option value="$PROJECT_DIR$/userdata.php" />
       </list>
     </option>
   </component>
@@ -194,6 +216,82 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="qareer2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="belajarphp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qareer2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdot-vuejs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="belajarphp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qareer2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdot-vuejs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="behat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="belajarphp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="qareer2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mdot-vuejs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="behat" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adaptive" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="belajarphp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="belajarphp" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -205,6 +303,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -301,17 +400,18 @@
       <option name="presentableId" value="Default" />
       <updated>1499422559781</updated>
       <workItem from="1499422561170" duration="14428000" />
-      <workItem from="1500450061132" duration="18324000" />
+      <workItem from="1500450061132" duration="24036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32752000" />
+    <option name="totallyTimeSpent" value="38464000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22961374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22961374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -366,16 +466,16 @@
           <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1500536920000" expanded="true" signature="970:1074" ph="Select id,fi... Datakaryawan" />
-            <marker date="1500536920000" expanded="true" signature="971:1074" ph="select id,fi... datakaryawan" />
-            <marker date="1500536920000" expanded="true" signature="1252:1713" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:1729" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:1730" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:1755" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:2079" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:2091" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1873:2072" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="2060:2072" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="973:1077" ph="Select id,fi... Datakaryawan" />
+            <marker date="1500553513000" expanded="true" signature="974:1077" ph="select id,fi... datakaryawan" />
+            <marker date="1500553513000" expanded="true" signature="1255:1716" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:1732" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:1733" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:1758" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:2007" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:2019" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1876:2000" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1988:2000" ph="..." />
           </folding>
         </state>
       </provider>
@@ -393,10 +493,10 @@
         <state relative-caret-position="135">
           <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
           <folding>
-            <marker date="1500537214000" expanded="true" signature="355:424" ph="INSERT INTO datakaryawan... " />
-            <marker date="1500537214000" expanded="true" signature="355:453" ph="INSERT INTO datakaryawan... " />
-            <marker date="1500537214000" expanded="true" signature="355:464" ph="INSERT INTO datakaryawan... " />
-            <marker date="1500537214000" expanded="true" signature="355:698" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:424" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:453" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:464" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:698" ph="INSERT INTO datakaryawan... " />
           </folding>
         </state>
       </provider>
@@ -434,47 +534,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-3.2.1.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="1" column="11483" lean-forward="false" selection-start-line="1" selection-start-column="11483" selection-end-line="1" selection-end-column="11483" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/registrationpage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dbconnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/userdata.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="59" column="44" lean-forward="true" selection-start-line="59" selection-start-column="44" selection-end-line="59" selection-end-column="44" />
-          <folding>
-            <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1500536920000" expanded="true" signature="970:1074" ph="Select id,fi... Datakaryawan" />
-            <marker date="1500536920000" expanded="true" signature="971:1074" ph="select id,fi... datakaryawan" />
-            <marker date="1500536920000" expanded="true" signature="1252:1713" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:1729" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:1730" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:1755" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:2079" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1252:2091" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="1873:2072" ph="..." />
-            <marker date="1500536920000" expanded="true" signature="2060:2072" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -496,10 +560,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-3.2.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="1" column="11483" lean-forward="false" selection-start-line="1" selection-start-column="11483" selection-end-line="1" selection-end-column="11483" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/qareer2/mdot-vuejs/test/behat/features/adaptive/refer.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dbconnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/delete.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="2" />
+        <state relative-caret-position="150">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <marker date="1500536482000" expanded="true" signature="109:144" ph="DELETE FROM " />
             <marker date="1500536482000" expanded="true" signature="109:152" ph="DELETE FROM " />
@@ -507,27 +595,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/postedit.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/DHTML.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
-          <folding>
-            <marker date="1500537119000" expanded="true" signature="377:740" ph="Update datak... " />
-            <marker date="1500537119000" expanded="true" signature="377:748" ph="Update datak... " />
-            <marker date="1500537119000" expanded="true" signature="383:715" ph="INSERT INTO datakaryawan... " />
-          </folding>
+        <state relative-caret-position="440">
+          <caret line="1709" column="0" lean-forward="false" selection-start-line="1709" selection-start-column="0" selection-end-line="1709" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/qareer2/mdot-vuejs/test/behat/features/adaptive/login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="40" lean-forward="true" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/post.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="421">
+          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
           <folding>
-            <marker date="1500537214000" expanded="true" signature="355:424" ph="INSERT INTO datakaryawan... " />
-            <marker date="1500537214000" expanded="true" signature="355:453" ph="INSERT INTO datakaryawan... " />
-            <marker date="1500537214000" expanded="true" signature="355:464" ph="INSERT INTO datakaryawan... " />
-            <marker date="1500537214000" expanded="true" signature="355:698" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:424" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:453" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:464" ph="INSERT INTO datakaryawan... " />
+            <marker date="1500547743000" expanded="true" signature="355:698" ph="INSERT INTO datakaryawan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+          <folding>
+            <marker date="1500547449000" expanded="true" signature="377:740" ph="Update datak... " />
+            <marker date="1500547449000" expanded="true" signature="377:748" ph="Update datak... " />
+            <marker date="1500547449000" expanded="true" signature="383:715" ph="INSERT INTO datakaryawan... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userdata.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="31" column="72" lean-forward="true" selection-start-line="31" selection-start-column="72" selection-end-line="31" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1500553513000" expanded="true" signature="973:1077" ph="Select id,fi... Datakaryawan" />
+            <marker date="1500553513000" expanded="true" signature="974:1077" ph="select id,fi... datakaryawan" />
+            <marker date="1500553513000" expanded="true" signature="1255:1716" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:1732" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:1733" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:1758" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:2007" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1255:2019" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1876:2000" ph="..." />
+            <marker date="1500553513000" expanded="true" signature="1988:2000" ph="..." />
           </folding>
         </state>
       </provider>

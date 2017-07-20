@@ -38,7 +38,7 @@ $result = mysqli_query($connection, $query);
 
 
 if ($result == true) {
-    echo "Edit Success";
+    echo "<html><Marquee>Edit Success</Marquee></html>";
 } else {
     echo "Edit failed";
 }

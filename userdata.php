@@ -27,15 +27,14 @@
     </tr>
 
     <script>
-        function myFunction() {
+        function myFunction(id) {
             var txt;
-            var r = confirm("Press a button!");
+            var r = confirm("Are you sure want to delete this record!");
             if (r == true) {
-                txt = "You pressed OK!";
+                window.location.href = 'http://localhost:8888/belajarphp/delete.php?id=' + id;
             } else {
-                txt = "You pressed Cancel!";
+                return false;
             }
-            document.getElementById("delete").innerHTML = txt;
         }
     </script>
 
@@ -63,7 +62,7 @@
             <td>" . $data['status'] . "</td>
             <td>
                 <a href='http://localhost:8888/belajarphp/edit.php?id=" . $data['id'] . "'><input type='submit' name='edit' value='Edit'></a>
-                <a href='http://localhost:8888/belajarphp/delete.php?id=" . $data['id'] . "'><input onclick=\"myFunction()\" type='submit' name='delete' value='Delete' id = 'delete'> </a>
+                <input onclick=\"myFunction($data[id])\" type='submit' name='delete' value='Delete' id='delete'>
             </td>
         </tr> 
         ";
